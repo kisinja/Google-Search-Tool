@@ -1,0 +1,1 @@
+This is a search tool in Python that makes it easier to google something without having to swith to google on your computer. Results are inform of links that you can click into and go straight to your query's resource on google. ALL THE BEST
